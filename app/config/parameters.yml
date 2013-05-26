@@ -1,0 +1,15 @@
+parameters:
+    database_driver: pdo_mysql
+    database_host: 127.0.0.1
+    database_port: null
+    database_name: root
+    database_user: root
+    database_password: nastiesero23
+    mailer_transport: smtp
+    mailer_host: 127.0.0.1
+    mailer_user: null
+    mailer_password: null
+    locale: en
+    secret: d1019e37c9e950421c0198f23bb9210ca2
+    database_path: null
+
